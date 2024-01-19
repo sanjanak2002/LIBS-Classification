@@ -29,5 +29,4 @@ pip install -r requirements.txt
 
 ## Additional Resources
 
-- [Link to the Paper]([insert_paper_link_here](https://ieeexplore.ieee.org/document/9999430)https://ieeexplore.ieee.org/document/9999430)
-```
+- [Link to the Paper](https://ieeexplore.ieee.org/document/9999430)
