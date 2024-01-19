@@ -27,6 +27,16 @@ cd LIBS-Classification
 pip install -r requirements.txt
 ```
 
+### Run the Machine Learning Models
+
+Adjust the `file_path` variable in `run_models.py` to point to your dataset.
+Execute the main script to run all the machine learning models and compare their performance:
+
+```bash
+python run_models.py
+```
+This will print the accuracy of each model on the test set for comparison.
+
 ## Additional Resources
 
 - [Link to the Paper](https://ieeexplore.ieee.org/document/9999430)
