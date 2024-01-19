@@ -14,19 +14,20 @@ Follow these instructions to set up the project on your local machine for develo
 
 ### Prerequisites
 
-- Python (version X.X)
-- Pip (version X.X)
+- Python (version 3.7 or higher)
+- Pip (version 19.0 or higher)
 
 ### Installation
 
 Clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/sanjanak2002/LIBS-Classification.git
+cd LIBS-Classification
 pip install -r requirements.txt
 ```
 
 ## Additional Resources
 
 - [Link to the Paper]([insert_paper_link_here](https://ieeexplore.ieee.org/document/9999430)https://ieeexplore.ieee.org/document/9999430)
+```
